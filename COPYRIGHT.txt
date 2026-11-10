@@ -1,0 +1,17 @@
+GHI CHÚ VINVIN
+Tác giả / Author: VinVin
+
+Copyright © 2026 VinVin. Bảo lưu mọi quyền / All rights reserved.
+
+Phần mềm "Ghi Chú VinVin", bao gồm mã nguồn, giao diện, biểu tượng (logo) và
+tài liệu đi kèm, là tác phẩm do VinVin thiết kế và phát triển.
+
+Khi chưa có sự đồng ý bằng văn bản của tác giả, nghiêm cấm:
+  1. Sao chép, chỉnh sửa, dịch ngược hoặc tạo tác phẩm phái sinh từ phần mềm này.
+  2. Phân phối lại, đăng tải lên cửa hàng ứng dụng hoặc kênh phân phối khác.
+  3. Sử dụng phần mềm, tên gọi hoặc biểu tượng cho mục đích thương mại.
+  4. Gỡ bỏ hoặc thay đổi thông tin tác giả và thông báo bản quyền.
+
+Phần mềm sử dụng một số thư viện mã nguồn mở (Capacitor và các plugin đi kèm,
+phát hành theo giấy phép MIT). Các thư viện này thuộc quyền của chủ sở hữu tương
+ứng và tuân theo giấy phép riêng của họ.

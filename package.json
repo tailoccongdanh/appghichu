@@ -1,0 +1,24 @@
+{
+  "name": "ghi-chu",
+  "version": "1.0.0",
+  "description": "Ghi Chú VinVin - Ứng dụng ghi chú cá nhân",
+  "author": "VinVin",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "build": "echo 'static app, nothing to build'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor-community/speech-recognition": "^6.0.1",
+    "@capacitor/local-notifications": "^6.1.0",
+    "@capacitor/filesystem": "^6.0.3",
+    "@capacitor/share": "^6.0.3",
+    "@capacitor/browser": "^6.0.3",
+    "@capacitor/app": "^6.0.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
